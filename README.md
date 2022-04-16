@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+#CRUD 3
+Proyecto CRUD simple realizado en React JS, lista de notas donde se permite agregar, editar y borrar usando Firebase como base de datos.
+
++HTML +BOOTSTRAP CSS +JAVASCRIPT +REACT JS
+
+#View
+![crud3](https://user-images.githubusercontent.com/84545725/163659416-3bf96c5c-b739-4024-b9ba-5aec8cf10f38.jpg)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
