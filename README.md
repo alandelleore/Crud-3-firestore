@@ -3,6 +3,8 @@ Proyecto CRUD simple realizado en React JS, lista de notas donde se permite agre
 
 +HTML +BOOTSTRAP CSS +JAVASCRIPT +REACT JS
 
+https://crud3-firebase.netlify.app/
+
 #View
 ![crud3](https://user-images.githubusercontent.com/84545725/163659416-3bf96c5c-b739-4024-b9ba-5aec8cf10f38.jpg)
 
